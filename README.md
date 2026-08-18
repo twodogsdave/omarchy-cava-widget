@@ -5,7 +5,7 @@ Audio visualizer bars for the [Omarchy](https://omarchy.org/) status bar.
 Bars use the bar text color from the active theme (`[bar] text` in
 `shell.toml`) and follow theme changes. When nothing is playing they
 blend into the bar background. Click the widget to change the number of
-bars, bar width, and gap.
+bars, bar width, and gap.  Created with Grok.
 
 ![preview](./preview.png)
 
