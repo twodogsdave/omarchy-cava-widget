@@ -25,7 +25,7 @@ This repository is a marketplace plugin. Add it from git **without**
 right of the bar:
 
 ```sh
-omarchy plugin add https://github.com/<you>/cava.git --enable
+omarchy plugin add https://github.com/twodogsdave/omarchy-cava-widget.git --enable
 ```
 
 From a local checkout:
